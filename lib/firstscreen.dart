@@ -116,7 +116,7 @@ class FirstScreen extends StatelessWidget {
                     height: 80.0,
                     width: 150.0,),                  
                   ),
-                  const Text("Books"),
+                  const Text("Books &other"),
                 ],
               ),
               
